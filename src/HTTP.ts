@@ -1,4 +1,4 @@
-import * as httpie from "httpie/fetch";
+import * as httpie from "httpie";
 import { Client } from "./Client";
 import { ServerError } from "./errors/ServerError";
 
